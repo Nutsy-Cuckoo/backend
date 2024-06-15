@@ -1,0 +1,9 @@
+npm i prisma
+npx prisma init
+npx prisma generate
+npx prisma db push
+
+npm i class-validator
+
+npm i --save @nestjs/swagger
+npm i --save @nestjs/config
